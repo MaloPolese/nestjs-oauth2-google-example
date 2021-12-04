@@ -42,4 +42,4 @@ $ curl --location --request GET 'localhost:3000/oauth2/login/google'
 ## About me
 
 - Author - [Malo Polese](https://www.linkedin.com/in/malo-polese/)
-- Website - [https://nestjs.com](https://malo-polese.fr/)
+- Website - [malo-polese.fr](https://malo-polese.fr/)
